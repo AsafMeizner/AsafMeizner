@@ -114,7 +114,7 @@
 <img src="https://komarev.com/ghpvc/?username=PopiChan&color=0E9C47&style=for-the-badge">
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Popichan&github-compact" width="100%">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Popichan&theme=github-compact" width="100%">
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
