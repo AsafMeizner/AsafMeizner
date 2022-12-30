@@ -97,8 +97,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PopiChan&layout=compact&theme=merko&hide=tex,html,javascript">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/MA5951/MAutils"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=MAutils&theme=merko&show_owner=MA5951">
+<!-- <p align="center"> -->
+<a href="https://github.com/MA5951/MAutils"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=MAutils&theme=merko">
 
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
