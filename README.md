@@ -94,7 +94,7 @@
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/MA5951/MAutils"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PopiChan&layout=compact&theme=merko&hide=javascript,html,tex>
+<a href="https://github.com/MA5951/MAutils"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PopiChan&layout=compact&theme=merko>
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=MAutils&theme=merko">
