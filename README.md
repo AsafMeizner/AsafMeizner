@@ -95,7 +95,7 @@
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PopiChan&layout=compact&theme=merko&hide=tex,html,javascript,css">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PopiChan&layout=compact&theme=merko&hide=java,python,batchfile,vbscript,cs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PopiChan&layout=compact&theme=merko&hide=java,python,batchfile,vbscript,csharp">
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
