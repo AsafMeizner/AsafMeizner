@@ -34,6 +34,3 @@
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AsafMeizner&color=0E9C47&style=for-the-badge">
-
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AsafMeizner&theme=github-compact" width="100%">
