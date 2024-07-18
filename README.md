@@ -20,13 +20,6 @@
     </a>
 </p>
 
-<!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
-    <a href="https://stackoverflow.com/users/14602915/asaf meizner">
-        <img src="https://github-readme-stackoverflow.vercel.app/?userID=15829321&theme=dark">
-    </a>
-</p>
-
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
     <a href="https://github.com/AsafMeizner?tab=repositories&sort=stargazers">
