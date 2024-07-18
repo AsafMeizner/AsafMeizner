@@ -7,6 +7,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsafMeizner&layout=compact&theme=merko&langs_count=10&hide=tex,html,javascript,css,typescript,scss">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsafMeizner&layout=compact&theme=merko&langs_count=10&hide=java,python,batchfile,vbscript,c%23">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=github-readme-stats)](https://github.com/AsafMeizner/rosi-2.0)
+
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/AsafMeizner/rosi-2.0"> 
