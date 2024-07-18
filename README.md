@@ -15,8 +15,8 @@
     <a href="https://github.com/AsafMeizner/rosi-2.0">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=rosi-2.0&theme=merko&show_owner">
     </a>
-    <a href="https://github.com/MA5951/MAutils">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=MAutils&theme=merko">
+    <a href="https://github.com/AsafMeizner/Resume">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=Resume&theme=merko">
     </a>
 </p>
 
