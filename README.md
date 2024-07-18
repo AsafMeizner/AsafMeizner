@@ -33,5 +33,3 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AsafMeizner&color=0E9C47&style=for-the-badge">
 </p>
-
-<iframe src="https://ma-site.vercel.app/" title="ma-site"></iframe>
