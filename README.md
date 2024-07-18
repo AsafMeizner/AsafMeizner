@@ -9,7 +9,7 @@
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/MA5951"> 
+<a href="https://github.com/AsafMeizner/rosi-2.0"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=rosi-2.0&theme=merko&show_owner">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=MAutils&theme=merko">
 
