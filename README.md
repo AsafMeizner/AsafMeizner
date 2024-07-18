@@ -10,6 +10,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsafMeizner&layout=compact&theme=merko&langs_count=10&hide=java,python,batchfile,vbscript,c%23">
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsafMeizner&layout=compact&theme=merko&langs_count=20">
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsafMeizner)](https://github.com/AsafMeizner/)
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
