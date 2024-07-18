@@ -16,7 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=rosi-2.0&theme=merko&show_owner">
     </a>
     <a href="https://github.com/AsafMeizner/Resume">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MA5951&repo=Resume&theme=merko">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=Resume&theme=merko">
     </a>
 </p>
 
