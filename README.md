@@ -14,7 +14,7 @@
     <a href="https://github.com/AsafMeizner/rosi-2.0">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=rosi-2.0&theme=merko&show_owner">
     </a>
-    <a href=github.com/asafmeizner/scoutingapp">
+    <a href=github.com/asafmeizner/mashkif">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsafMeizner&repo=scoutingApp&theme=merko">
     </a>
 </p>
